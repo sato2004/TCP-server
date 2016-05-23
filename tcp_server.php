@@ -10,7 +10,7 @@ $list=array(
 		
 		// define our database connection
 define('DB_SERVER', 'localhost');
-define('DB_SERVER_USERNAME', 'your_name');
+define('DB_SERVER_USERNAME', 'your_names');
 define('DB_SERVER_PASSWORD', 'password');
 define('DB_DATABASE', 'your_name');
 		
